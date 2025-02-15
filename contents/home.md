@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![TSH1993](https://img.shields.io/badge/TSH1993-github-blue?logo=github)](https://github.com/TSH1993)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+She is currently a PhD candidate in Ecology at State Key Laboratory of Vegetation and Environmental Change, Institute of Botany, Chinese Academy of Sciences, Beijing, China
 
 #### Email
-sli[at]cumt.edu.cn
+sihuitian@ibcas.ac.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Bachelor and Master of Agronomy, School of Animal Science, Guizhou University, 2012—2019.\
+Ph.D. in Ecology, Institute of Botany, Chinese Academy of Sciences  (Expected), 2019—2025.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Biodiversity, Global Climate Change, Carbon Cycle
 
